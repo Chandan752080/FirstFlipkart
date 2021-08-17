@@ -4,7 +4,9 @@ public class DemoForPrint {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Flipkart project runs in java");
+		System.out.println("Flipkart project runs in java.");
+		SecondPrintFlipkart secondPrintFlipkart=new SecondPrintFlipkart();
+		secondPrintFlipkart.print();
 	}
 
 }
