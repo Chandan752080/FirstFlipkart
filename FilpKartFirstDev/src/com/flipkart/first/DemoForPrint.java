@@ -7,6 +7,8 @@ public class DemoForPrint {
 		System.out.println("Flipkart project runs in java.");
 		SecondPrintFlipkart secondPrintFlipkart=new SecondPrintFlipkart();
 		secondPrintFlipkart.print();
+		FlipkartThirdPrint flipkartThirdPrint=new FlipkartThirdPrint();
+		flipkartThirdPrint.print1();
 	}
 
 }
